@@ -1,9 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Fundamentals of Vibe Coding with Agentic Mode on GitHub Copilot
+This is the repository for the LinkedIn Learning course `Fundamentals of Vibe Coding with Agentic Mode on GitHub Copilot`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
 ## Course Description
+
+Vibe coding means letting the AI handle the typing while you steer the vision. We’ll dive into what sets vibe coding apart, which platforms support it, and how to get started. This course explores how agentic modes let you prompt, plan, and iterate working apps without coding every line. You’ll learn how to design system prompts, work through errors, and work responsibly.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -24,25 +26,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 ## Instructor
 
-Instructor name
+Ray Villalobos
 
-Instructor description
+Senior Staff Instructor at LinkedIn Learning
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/vibe-coding-fundaments-tools-and-best-practices
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGpY8IbyiIIeQ/learning-public-crop_675_1200/B4DZaDsp8rGgAY-/0/1745966243879?e=2147483647&v=beta&t=UH7bzSr6asHZX949X4DtV18Xpa3aYpxGo0aL8AxrTHY
 
